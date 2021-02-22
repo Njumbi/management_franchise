@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Franchise Management</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_to_get_started">Sign in to get started</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_create">Don\'t have an account?</string>
+    <string name="username">username</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="account">Account</string>
+    <string name="carre_four">Carre four</string>
+    <string name="add_store">Add Store</string>
+    <string name="name">name</string>
+    <string name="address">Address</string>
+    <string name="storeemail">Email</string>
+    <string name="phone">Phone</string>
+    <string name="submit">submit</string>
+    <string name="select_franchise">Select Franchise</string>
+    <string name="add_Products">addProducts</string>
+    <string name="addProducts">Add Products</string>
+    <string name="selectStore">select Store</string>
+    <string name="franchiseCode">franchise code</string>
+    <string name="selectCategory">Select Category</string>
+    <string name="quantity">quantity</string>
+    <string name="Measurement">measurement</string>
+    <string name="price">price</string>
+    <string name="stock">Stock</string>
+    <string name="description">Description</string>
+    <string name="order">Order</string>
+</resources>

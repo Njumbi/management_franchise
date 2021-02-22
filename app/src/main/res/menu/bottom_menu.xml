@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/menu_home"
+        />
+
+    <item
+        android:title="Franchise"
+        android:icon="@drawable/ic_franchise"
+        android:id="@+id/menu_franchise"
+        />
+    <item
+        android:title="Stores"
+        android:icon="@drawable/ic_shop"
+        android:id="@+id/menu_stores"
+        />
+    <item
+        android:title="Products"
+        android:icon="@drawable/ic_products"
+        android:id="@+id/menu_products"
+        />
+    <item
+        android:title="Orders"
+        android:icon="@drawable/ic_shopping_bag"
+        android:id="@+id/menu_orders"
+        />
+
+
+</menu>
