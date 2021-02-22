@@ -12,3 +12,9 @@ It allows a user to add a franchise, add a store and also add products that he c
 
 
 <img src="https://github.com/Njumbi/management_franchise/blob/master/app/src/main/res/drawable/add_franchise.png" height="50%" width="50%"/>
+
+## Contributions
+Pull requests are welcome.
+
+## Licenses
+MIT
